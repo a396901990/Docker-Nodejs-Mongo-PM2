@@ -1,0 +1,15 @@
+{
+    "apps": [
+        {
+            "name": "app-test",
+            "script"      : "server.js",
+            "args"        : [],
+            "watch"       : false,
+            "merge_logs"  : true,
+            "max_memory_restart": "100M",
+            "env": {
+                "NODE_ENV": "local"
+            }
+        }
+    ]
+}

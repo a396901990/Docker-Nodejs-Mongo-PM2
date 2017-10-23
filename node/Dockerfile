@@ -3,6 +3,7 @@
 FROM node
 
 #创建app目录,保存我们的代码
+RUN npm install pm2 -g --registry=https://registry.npm.taobao.org
 RUN mkdir -p /usr/src/node
 #设置工作目录
 WORKDIR /usr/src/node
