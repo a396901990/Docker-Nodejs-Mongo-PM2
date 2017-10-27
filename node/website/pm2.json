@@ -6,6 +6,9 @@
             "args"        : [],
             "watch"       : false,
             "merge_logs"  : true,
+            "error_file": "../data/logs/app-test-err.log",
+            "out_file": "../data/logs/app-test-out.log",
+            "log_date_format": "YYYY-MM-DD HH:mm:ss.SSS",
             "max_memory_restart": "100M",
             "env": {
                 "NODE_ENV": "local"

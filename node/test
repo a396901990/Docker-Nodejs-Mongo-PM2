@@ -1,0 +1,2 @@
+docker build -t dean/testpm2 .
+docker run -d -p  8888:8888 -v /Users/deanguo/Docker-Nodejs-Mongo-PM2/node/data/logs:/usr/src/node/data/logs dean/testpm2

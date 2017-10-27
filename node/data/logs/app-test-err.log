@@ -1,0 +1,1296 @@
+2017-10-25 09:24:19.599: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-25 09:24:20.129: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-25 09:24:20.631: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-25 09:24:21.184: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-25 09:24:21.687: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-25 09:24:22.196: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-25 09:24:22.715: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-25 09:24:23.225: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-25 09:24:23.737: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-25 09:24:24.243: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-25 09:24:24.813: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-25 09:24:25.366: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-25 09:24:25.907: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-25 09:24:26.574: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-25 09:24:27.090: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-25 09:24:27.582: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:45.596: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:46.113: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:46.682: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:47.199: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:47.706: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:48.209: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:48.716: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:49.208: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:49.752: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:50.262: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:50.814: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:51.374: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:51.904: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:52.410: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:52.901: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:30:53.426: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:01.810: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:02.287: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:02.744: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:03.197: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:03.702: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:04.170: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:04.645: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:05.092: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:05.556: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:06.042: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:06.515: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:07.000: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:07.471: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:07.941: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:08.424: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:42:08.896: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:57:57.923: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:57:58.388: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:57:58.841: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:57:59.345: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:57:59.863: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:58:00.352: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:58:00.832: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:58:01.351: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:58:02.569: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:58:03.069: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:58:03.584: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:58:04.093: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:58:04.875: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:58:05.513: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:58:05.970: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:58:06.491: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-26 10:58:07.043: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '/data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:16.916: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:17.488: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:18.050: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:18.596: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:19.132: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:19.697: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:20.192: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:20.727: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:21.307: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:21.825: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:22.355: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:22.832: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:23.326: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:23.948: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:24.470: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
+2017-10-27 06:10:24.999: Error: Problem with log4js configuration: ({ appenders: 
+   [ { type: 'dateFile',
+       pattern: '-yyyyMMddhh.log',
+       filename: '../data/logs/hello.log',
+       category: 'hello' } ],
+  levels: { action: 'INFO', alarm_api: 'INFO' } }) - must have a property "appenders" of type object.
+    at tests.forEach (/usr/src/node/website/node_modules/log4js/lib/configuration.js:44:15)
+    at Array.forEach (<anonymous>)
+    at Configuration.throwExceptionIf (/usr/src/node/website/node_modules/log4js/lib/configuration.js:42:11)
+    at new Configuration (/usr/src/node/website/node_modules/log4js/lib/configuration.js:205:10)
+    at Object.configure (/usr/src/node/website/node_modules/log4js/lib/log4js.js:201:12)
+    at Object.<anonymous> (/usr/src/node/website/server.js:8:8)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+    at Module.load (module.js:507:32)
+    at tryModuleLoad (module.js:470:12)
