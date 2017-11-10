@@ -1,6 +1,6 @@
 const express = require('express');
 const log4js = require('log4js');
-
+const mongoose = require('mongoose');
 // Creates an Express application
 let app = express();
 

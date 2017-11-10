@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "express": "^4.13.3",
-    "log4js": "^2.3.8"
+    "log4js": "^2.3.8",
+    "mongoose": "^4.13.1"
   }
 }
